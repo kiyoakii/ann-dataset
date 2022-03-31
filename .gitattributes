@@ -1,0 +1,2 @@
+sift filter=lfs diff=lfs merge=lfs -text
+*.u8bin filter=lfs diff=lfs merge=lfs -text
